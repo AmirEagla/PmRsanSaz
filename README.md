@@ -7,7 +7,7 @@ Php
 
 وبعد کدهای زیر رو بزنید به ترتیب
 
-git clone https://github.com/AmirEagla/PmResanSaz.git
+git clone https://github.com/AmirEagla/PmRsanSaz.git
 
 sudo apt-get install redis-server
 
